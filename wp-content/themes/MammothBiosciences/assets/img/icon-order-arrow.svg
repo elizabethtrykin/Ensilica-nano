@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="26px" height="14px" viewbox="0 0 26 14" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M0 0L25.4034 0L25.4034 13.8102L0 13.8102L0 0Z" id="path_1" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="Group-3-Copy-3">
+    <path d="M0 0L25.4034 0L25.4034 13.8102L0 13.8102L0 0Z" id="Clip-2" fill="none" fill-rule="evenodd" stroke="none" />
+    <g clip-path="url(#mask_1)">
+      <path d="M15.9427 3.65345L0.455709 3.65345C0.204218 3.65345 0 3.92836 0 4.26627L0 9.54363C0 9.88218 0.204218 10.1564 0.455709 10.1564L15.9427 10.1564C16.1942 10.1564 16.398 10.4307 16.398 10.7699L16.398 13.1964C16.398 13.6685 16.7776 13.9632 17.0811 13.7271L25.176 7.436C25.4795 7.1999 25.4795 6.60999 25.176 6.3739L17.0811 0.082813C16.7776 -0.152642 16.398 0.141995 16.398 0.61354L16.398 3.04063C16.398 3.37918 16.1942 3.65345 15.9427 3.65345" id="Fill-1" fill="#0D2D40" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>
