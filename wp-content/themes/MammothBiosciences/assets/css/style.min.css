@@ -1003,7 +1003,7 @@ a {
 .section--with_gradient:before {
     content: "";
     display: block;
-    background: radial-gradient(circle, rgba(0, 6, 10, 0.4) 0%, #001522 100%);
+    background: radial-gradient(circle, #5b609b66 0%, #0f1e48 100%);
     opacity: 1;
     position: absolute;
     width: 100%;
@@ -1531,6 +1531,8 @@ a {
     }
 }
 
+
+
 .header {
     position: absolute;
     z-index: 100;
@@ -1683,7 +1685,7 @@ a {
 }
 
 .header .list li a:hover {
-    color: #22738c
+    color: #c3d8bd
 }
 
 @media all and (max-width: 1200px) {
@@ -4740,7 +4742,7 @@ a {
     left: 0;
     height: 100%;
     width: 3px;
-    background-color: #37b14b;
+    background-color: #df7b13;
     -webkit-animation: cd-pulse 1.3s 0.3s both;
     animation: cd-pulse 1.3s 0.3s both
 }
