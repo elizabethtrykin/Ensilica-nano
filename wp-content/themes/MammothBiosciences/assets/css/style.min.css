@@ -1003,7 +1003,7 @@ a {
 .section--with_gradient:before {
     content: "";
     display: block;
-    background: radial-gradient(circle, #5b609b66 0%, #0f1e48 100%);
+    background: radial-gradient(circle, #5b609a66 0%, #0f1e48 100%);
     opacity: 1;
     position: absolute;
     width: 100%;
