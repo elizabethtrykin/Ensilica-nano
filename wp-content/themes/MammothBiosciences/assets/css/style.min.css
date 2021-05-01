@@ -1003,7 +1003,7 @@ a {
 .section--with_gradient:before {
     content: "";
     display: block;
-    background: radial-gradient(circle, #5b609a66 0%, #0f1e48 100%);
+    background: radial-gradient(circle, rgba(91, 96, 154, 0.4) 0%, #0f1e48 100%);
     opacity: 1;
     position: absolute;
     width: 100%;
@@ -1992,7 +1992,7 @@ a {
 }
 
 .footer {
-    background-color: #0c2738;
+    background-color: #1E2049;
     color: #fff;
     position: relative;
     overflow: hidden
@@ -3784,7 +3784,7 @@ a {
 }
 
 .hero__content h3 {
-    color: #22738c;
+    color: #608830;
     margin-bottom: 15px
 }
 
@@ -4558,11 +4558,11 @@ a {
 
 .animation_type_3 #animation1__line2 {
     height: 3px;
-    width: 450px;
+    width: px;
     background-color: #37b14b;
     position: absolute;
     top: calc(100% - 3px);
-    left: 18%;
+    left: 0%;
     -webkit-animation: lineReveal 1s 1;
     animation: lineReveal 1s 1;
     z-index: 0;
@@ -4742,7 +4742,7 @@ a {
     left: 0;
     height: 100%;
     width: 3px;
-    background-color: #df7b13;
+    background-color: #608830;;
     -webkit-animation: cd-pulse 1.3s 0.3s both;
     animation: cd-pulse 1.3s 0.3s both
 }
@@ -5040,7 +5040,7 @@ a {
 }
 
 .learn-more h3, .section--learn-more h3 {
-    color: #22738c;
+    color: #608830;
     font-size: 19px;
     margin-bottom: 10px
 }
@@ -5889,6 +5889,7 @@ a {
     position: relative;
     flex: 0 0 calc(25% - 20px);
     margin: 0 10px 44px;
+    margin-left: 210px;
     display: flex;
     flex-direction: column;
     -webkit-tap-highlight-color: transparent
